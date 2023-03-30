@@ -3,7 +3,7 @@
  Topics in artificial intelligence and machine learning related statistical machine learning, deep learning, supervised and unsupervised learning, knowledge representation and reasoning. 
  During the preparation of this work the author(s) used LLMs outputs in order to elaborate about the topics and retreive references. These references were verified and information validates. After using this tool/service, the author(s) reviewed and edited the content as needed and take(s) full responsibility for the content of the publication.
 
-## Statistical Machine Learning
+## [Statistical Machine Learning](https://github.com/d-t-n/statistical-machine-learning.git)
 - Distinguish between supervised learning and unsupervised learning
 
 - Apply common probability distributions in machine learning applications
