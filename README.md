@@ -1,6 +1,6 @@
 # AI and Machine Learning
 
- Topics in artificial intelligence and machine learning related statistical machine learning, deep learning, supervised and unsupervised learning, knowledge representation and reasoning. 
+ Topics in artificial intelligence and machine learning related statistical machine learning, deep learning, supervised and unsupervised learning, knowledge representation and reasoning. Topics extracted from ASU MasterTrack.
  During the preparation of this work the author(s) used LLMs outputs in order to elaborate about the topics and retreive references. These references were verified and information validates. After using this tool/service, the author(s) reviewed and edited the content as needed and take(s) full responsibility for the content of the publication.
 
 ## [Statistical Machine Learning](https://github.com/d-t-n/statistical-machine-learning.git)
@@ -34,3 +34,27 @@
 - Apply algorithms to train an image classifier
 
 - Design an agent that can plan and act to achieve given objectives using noisy sensors and actuators
+
+## Knowledge Representation and Reasoning
+- Discuss the foundations of KRR
+
+- Explain different categories of representation and reasoning tasks
+
+- Assess the tradeoff between representation and reasoning
+
+- Identify which knowledge-based techniques are appropriate for which task
+
+- Apply KRR systems to challenging real-world problems
+
+## Intro to Deep Learning in Visual Computing
+- Gain an understanding of the mathematics (Statistics, Probability, Calculus, Linear Algebra and optimization) needed for designing machine learning algorithms
+
+- Learn how machine learning models fit data and how to handle small and large datasets
+
+- Understand the workings of different components of deep neural networks
+
+- Design deep neural networks for real-world applications in computer vision
+
+- Learn to transfer knowledge across neural networks to develop models for applications with limited data
+
+- Get introduced to deep learning approaches for unsupervised learning
