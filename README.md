@@ -20,7 +20,7 @@
 
 - Apply key techniques employed in building deep learning architectures
 
-## Artificial Intelligence
+## [Artificial Intelligence](https://github.com/d-t-n/artificial-intelligence.git)
 - Apply logical reasoning and programming to produce solutions for real-world problems
 
 - Use probabilistic inference to navigate uncertain information efficiently
