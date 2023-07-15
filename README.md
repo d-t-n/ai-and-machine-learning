@@ -35,7 +35,7 @@
 
 - Design an agent that can plan and act to achieve given objectives using noisy sensors and actuators
 
-## Knowledge Representation and Reasoning
+## [Knowledge Representation and Reasoning](https://github.com/d-t-n/knowledge-representation-and-reasoning)
 - Discuss the foundations of KRR
 
 - Explain different categories of representation and reasoning tasks
