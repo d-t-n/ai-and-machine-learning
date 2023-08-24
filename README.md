@@ -46,7 +46,7 @@
 
 - Apply KRR systems to challenging real-world problems
 
-## Intro to Deep Learning in Visual Computing
+## [Intro to Deep Learning in Visual Computing](https://github.com/d-t-n/intro-deep-learning-visual-computing)
 - Gain an understanding of the mathematics (Statistics, Probability, Calculus, Linear Algebra and optimization) needed for designing machine learning algorithms
 
 - Learn how machine learning models fit data and how to handle small and large datasets
